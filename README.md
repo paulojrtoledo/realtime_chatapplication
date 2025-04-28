@@ -72,3 +72,9 @@ This project is open source
 ## Credits
 
 Built with [Flet](https://flet.dev/) - A Python framework for building interactive multi-user web applications. 
+
+## 📌 Como usar este projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/paulojrtoledo/realtime_chatapplication.git
